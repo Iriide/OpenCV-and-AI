@@ -5,8 +5,7 @@ Summary: Library containing utilities to compute performance metrics for segment
 Home-page: https://github.com/deepmind/surface-distance
 Author: DeepMind
 License: Apache License, Version 2.0
-Platform: UNKNOWN
 License-File: LICENSE
-
-UNKNOWN
-
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: absl-py
